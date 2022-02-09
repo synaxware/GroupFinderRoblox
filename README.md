@@ -1,5 +1,5 @@
-###  GroupFinderRoblox
-## By SynaxHelper
+GroupFinderRoblox
+By SynaxHelper
 
 # 1. install python.
 # 2. download this repository
